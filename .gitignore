@@ -29,3 +29,5 @@ Nexus3d/
 *.njsproj
 *.sln
 *.sw?
+
+.vercel

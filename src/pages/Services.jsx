@@ -1,8 +1,8 @@
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 
-import printing from "../assets/printing.jpg";
-import modeling from "../assets/modeling.jpg";
+import printing from "../assets/Printing.jpg";
+import modeling from "../assets/Modeling.jpg";
 import post from "../assets/postprocess.jpg";
 import scan from "../assets/scanning.jpg";
 
